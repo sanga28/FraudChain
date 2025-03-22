@@ -1,0 +1,11 @@
+TransactionID,Amount,Location,is_fraud
+1,1050,NewYork,0
+2,2000,California,1
+3,500,Texas,0
+4,750,Florida,1
+5,300,NewYork,0
+6,1500,California,1
+7,400,Texas,0
+8,1200,Florida,1
+9,1800,NewYork,0
+10,600,California,1
